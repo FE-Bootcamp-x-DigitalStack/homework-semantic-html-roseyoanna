@@ -1,1 +1,1 @@
-#Semantic HTML and responsive CSS
+#Semantic HTML. Responsive plus animation and mobile first blog,done.
